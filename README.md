@@ -1,4 +1,4 @@
-# [Constructive Realities'](constructiverealities.io) Hypercube Evolution
+# [Constructive Realities'](http://constructiverealities.io) Hypercube Evolution
 ---
 ![image](https://user-images.githubusercontent.com/8261783/33407946-7732ceb4-d528-11e7-8479-42b6db523e73.png)
 
