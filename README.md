@@ -12,12 +12,14 @@ We've made some changes to the design and as part of our change control discipli
 
 This repository uses spaceclaim, so  design files are in their sdoc format.  In tagged commits you will that the latest completed assembly will exist in STEP format for that tagged release.  these will be more useful for you if you're a solidworks or (sic) Fusion360 user.
 
-If you're looking for a power 3d design tool for viewing this machine, or to design for 3d printing, We recommend DesignSpark mechanical.  It's a white label (limited/older) of SpaceClaim Engineer.  
+If you're looking for a power 3d design tool for viewing this machine, or to design for 3d printing, We recommend [DesignSpark mechanical].  If you're not familiar, It's a white label (limited/older) of SpaceClaim Engineer provided by rs-components.  It's a direct modeling tool with a legit geometry kernel (ACIS).  You'll need to register to "log in" to is, but It's a million times better then Sketchup for this type of (3d or mechanical) design.  
 
 
 ## Other Related Resources
 - Original Hypercube on [Thingiverse](https://www.thingiverse.com/thing:1752766)
 - Hypercube Evolution on [Thingiverse](https://www.thingiverse.com/thing:2254103)
+- [hevo.wiki](https://hevo.wiki/index.php/Main_Page)
+ 
 
 ## Contributors
 
@@ -25,7 +27,7 @@ If you're looking for a power 3d design tool for viewing this machine, or to des
 
 ## License
 
-The original designs of this machine are CC-BY, which is a beautiful license for this type of machine.  We continue that here.
+The original designs of this machine are CC-BY, which is a beautiful license for this type of thing.  We continue that here.
 
 
 
