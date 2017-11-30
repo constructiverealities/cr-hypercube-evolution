@@ -1,0 +1,85 @@
+Eric's Hypercube Frame BoM
+
+Mitsumi Series 6 3030 
+fore-aft (8) - 495mm
+laterals (6) - 500mm
+Uprights (4) - 545
+18 parts total 
+
+Mitsumi Series ? 2020
+lateral (2)  - 494mm
+fore/aft (2) - 300mm
+4 parts total 
+
+
+350x350 heated bed:
+https://www.aliexpress.com/item/Silicone-Heater-Bed-24V-350-X-350MM-For-Kossel-Pro-3D-Printer-Install-wih-100K-Thermistor/1982356777.html
+
+---
+### Shafts: 
+  10mm on Y Axis (2): 493.75  or 490 is acceptable margin.
+ - [10mm shaft](https://www.ebay.com/itm/PDTech-10mm-dia-hardened-steel-linear-bearing-rod-chrome-custom-cut-USA-ship/252919812405?hash=item3ae3321135:m:mlLVkkbmF1VXZYG83cUmerQ)
+  12 on Z Axis (4): 330 can be shortened.
+  - [12mm shaft](https://www.ebay.com/itm/PDTech-12mm-dia-hardened-steel-linear-bearing-rod-chrome-custom-cut-USA-ship/252919837424?hash=item3ae33272f0:m:mlLVkkbmF1VXZYG83cUmerQ)
+
+
+
+
+Hardware: 
+[M3 x 20 Socket cap Screw] (https://www.boltdepot.com/Product-Details.aspx?product=13639)
+
+Oldham coupers
+https://www.zyltech.com/store/p87/Flexible_Plum_Coupling_Shaft_-_Various_combinations_from_5mm_to_12.7mm.html
+
+Damper
+https://www.zyltech.com/store/p184/Nema_17_Dampers_-_refurbished_and_inspected_for_quality_-_3x%2C_4x%2C_or_5x.html
+
+Acme assembly [400mm]
+https://www.zyltech.com/store/p49/8mm_T8x8_Lead_Screw_Trapezoidal_ACME_w%2F_Anti-Backlash_Nut_kit_-_Pre-cut_lengths_150mm-2000mm.html
+
+24v power supply
+https://www.zyltech.com/store/p69/ZYLtech_24V_20A_480W_Power_Supply_Unit.html
+
+optical end stops
+https://www.zyltech.com/store/p105/3x_Optical_Endstop_Switch.html
+
+m5x10
+https://www.zyltech.com/store/p265/100x_ZYLtech_M5x8_and_M5x10_Button_Hex_Screws.html
+
+24v fan
+https://www.amazon.com/gp/product/B016XMK6SE/ref=ox_sc_act_title_3?smid=ATVPDKIKX0DER&psc=1
+
+14 gauge silicone wire
+https://www.amazon.com/gp/product/B074MGBMGX/ref=ox_sc_act_title_2?smid=A1AY59LT54ZBYI&psc=1
+
+brass inserts
+https://www.amazon.com/gp/product/B01IYWUUH8/ref=ox_sc_act_title_1?smid=A1THAZDOWP300U&psc=1
+
+gt2 belt
+https://www.amazon.com/gp/product/B00YMM6IQW/ref=ox_sc_act_title_4?smid=A2UHE58S2974CT&psc=1
+
+20 tooth gt2 wheels
+https://www.amazon.com/gp/product/B01H3DSGAC/ref=ox_sc_act_title_5?smid=A1LCDIR1SM8KTJ&psc=1
+
+leveling screws
+https://www.amazon.com/gp/product/B0761TLRNY/ref=ox_sc_act_title_6?smid=A2QQQKMKGVNA5E&psc=1
+
+pins
+https://www.amazon.com/gp/product/B01DZZUD3A/ref=ox_sc_act_title_7?smid=A1THAZDOWP300U&psc=1
+
+hidden corner brackets
+https://www.ebay.com/itm/172679113288
+
+t5 drop in t-nuts for 3030 
+https://www.ebay.com/itm/122537947289
+
+Mitsumi 
+-----------------------------
+16 x HBKTST6 - https://us.misumi-ec.com/vona2/detail/110302061170?ProductCode=HBKTST6
+2 x PSFJ10-490 - https://us.misumi-ec.com/vona2/detail/110302634310?ProductCode=PSFJ10-490
+4 x PSFJ12-400 - https://us.misumi-ec.com/vona2/detail/110302634310?ProductCode=PSFJ12-400
+4 x HFS6-3030-545 - https://us.misumi-ec.com/vona2/detail/110302686450?ProductCode=HFS6-3030-545
+2 x HFSR6-3030-545 - https://us.misumi-ec.com/vona2/detail/110302688550?ProductCode=HFSR6-3030-545
+6 x HFS6-3030-500 - https://us.misumi-ec.com/vona2/detail/110302686450?ProductCode=HFS6-3030-500
+8 x HFS6-3030-495 - https://us.misumi-ec.com/vona2/detail/110302686450?ProductCode=HFS6-3030-495
+
