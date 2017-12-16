@@ -1,35 +1,37 @@
 Eric's Hypercube Frame BoM
 
-Mitsumi Series 6 3030 
-fore-aft (8) - 495mm
-laterals (6) - 500mm
-Uprights (4) - 545
-18 parts total 
-
-Mitsumi Series ? 2020
-lateral (2)  - 494mm
-fore/aft (2) - 300mm
-4 parts total 
+#### Mitsumi Series 6 30 (18 parts total) 
+- fore-aft (8) - 495mm
+- laterals (6) - 500mm
+- Uprights (4) - 545
 
 
-350x350 heated bed:
-https://www.aliexpress.com/item/Silicone-Heater-Bed-24V-350-X-350MM-For-Kossel-Pro-3D-Printer-Install-wih-100K-Thermistor/1982356777.html
+#### Mitsumi Series ? 20 (4 parts total)
+- lateral (2)  - 494mm
+- fore/aft (2) - 300mm
+ 
+
+[350x350 heated bed](https://www.aliexpress.com/item/Silicone-Heater-Bed-24V-350-X-350MM-For-Kossel-Pro-3D-Printer-Install-wih-100K-Thermistor/1982356777.html)
 
 ---
 ### Shafts: 
-  10mm on Y Axis (2): 493.75  or 490 is acceptable margin.
- - [10mm shaft](https://www.ebay.com/itm/PDTech-10mm-dia-hardened-steel-linear-bearing-rod-chrome-custom-cut-USA-ship/252919812405?hash=item3ae3321135:m:mlLVkkbmF1VXZYG83cUmerQ)
-  12 on Z Axis (4): 330 can be shortened.
+ - 10mm on Y Axis (2): 493.75  or 490 is acceptable margin.
+  - [10mm shaft](https://www.ebay.com/itm/PDTech-10mm-dia-hardened-steel-linear-bearing-rod-chrome-custom-cut-USA-ship/252919812405?hash=item3ae3321135:m:mlLVkkbmF1VXZYG83cUmerQ)
+  
+- 12 on Z Axis (4): 330 can be shortened.
   - [12mm shaft](https://www.ebay.com/itm/PDTech-12mm-dia-hardened-steel-linear-bearing-rod-chrome-custom-cut-USA-ship/252919837424?hash=item3ae33272f0:m:mlLVkkbmF1VXZYG83cUmerQ)
 
+ - 10 mm on X; put ebay store info here 
 
 
 
 Hardware: 
+
+Carbon X Axis
 [M3 x 20 Socket cap Screw] (https://www.boltdepot.com/Product-Details.aspx?product=13639)
 
-Oldham coupers
-https://www.zyltech.com/store/p87/Flexible_Plum_Coupling_Shaft_-_Various_combinations_from_5mm_to_12.7mm.html
+ [*not* Oldham coupers :(](
+https://www.zyltech.com/store/p87/Flexible_Plum_Coupling_Shaft_-_Various_combinations_from_5mm_to_12.7mm.html)
 
 Damper
 https://www.zyltech.com/store/p184/Nema_17_Dampers_-_refurbished_and_inspected_for_quality_-_3x%2C_4x%2C_or_5x.html
@@ -83,3 +85,4 @@ Mitsumi
 6 x HFS6-3030-500 - https://us.misumi-ec.com/vona2/detail/110302686450?ProductCode=HFS6-3030-500
 8 x HFS6-3030-495 - https://us.misumi-ec.com/vona2/detail/110302686450?ProductCode=HFS6-3030-495
 
+Bearings
